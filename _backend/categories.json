@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "61991d979337c20cfc0fdf44"
+  },
+  "filterOptions": null,
+  "name": "Hats",
+  "description": "One size fits all.",
+  "createdAt": {
+    "$date": "2021-11-20T16:08:55.191Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:08:55.213Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61991eb59337c20cfc0fdf45"
+  },
+  "filterOptions": null,
+  "name": "Hoodies",
+  "description": "Vestibulum eros augue, molestie ut nulla sed, faucibus pulvinar turpis.",
+  "createdAt": {
+    "$date": "2021-11-20T16:13:41.746Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:13:41.757Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61991ed39337c20cfc0fdf46"
+  },
+  "filterOptions": null,
+  "name": "Shirts",
+  "description": "Pellentesque rutrum malesuada lacus, ut dapibus tortor rhoncus sed.",
+  "createdAt": {
+    "$date": "2021-11-20T16:14:11.225Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:14:11.237Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+}]

@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "61991faf907c8209c4d6f0ff"
+  },
+  "name": "i++",
+  "description": "Our i++ hoodie",
+  "createdAt": {
+    "$date": "2021-11-20T16:17:51.260Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:17:51.286Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991eb59337c20cfc0fdf45"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61991fd5907c8209c4d6f100"
+  },
+  "name": "codeblock",
+  "description": "Our codeblcok Hoodie",
+  "createdAt": {
+    "$date": "2021-11-20T16:18:29.910Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:18:29.924Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991eb59337c20cfc0fdf45"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61991ffa907c8209c4d6f101"
+  },
+  "name": "lightbulb",
+  "description": "Our lightbulb Hoodie",
+  "createdAt": {
+    "$date": "2021-11-20T16:19:06.085Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:19:06.097Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991eb59337c20cfc0fdf45"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61992034907c8209c4d6f102"
+  },
+  "name": "i++",
+  "description": "Our i++ Shirt",
+  "createdAt": {
+    "$date": "2021-11-20T16:20:04.237Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:20:04.257Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991ed39337c20cfc0fdf46"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "6199204c907c8209c4d6f103"
+  },
+  "name": "codeblock",
+  "description": "Our codeblock Shirt",
+  "createdAt": {
+    "$date": "2021-11-20T16:20:28.065Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:20:28.078Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991ed39337c20cfc0fdf46"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61992060907c8209c4d6f104"
+  },
+  "name": "lightbulb",
+  "description": "Our lightbulb Shit",
+  "createdAt": {
+    "$date": "2021-11-20T16:20:48.293Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:20:48.308Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991ed39337c20cfc0fdf46"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "619922555fe45920102c928e"
+  },
+  "name": "i++",
+  "description": "Out i++ Hat",
+  "createdAt": {
+    "$date": "2021-11-20T16:29:09.058Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:29:09.080Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991d979337c20cfc0fdf44"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "6199226e5fe45920102c928f"
+  },
+  "name": "codeblock",
+  "description": "Our codeblock Hat",
+  "createdAt": {
+    "$date": "2021-11-20T16:29:34.098Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:29:34.112Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991d979337c20cfc0fdf44"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "619922855fe45920102c9290"
+  },
+  "name": "lightbulb",
+  "description": "Out lightbulb Hat",
+  "createdAt": {
+    "$date": "2021-11-20T16:29:57.483Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T16:29:57.499Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "61991d979337c20cfc0fdf44"
+  },
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+}]

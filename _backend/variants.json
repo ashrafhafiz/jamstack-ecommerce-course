@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "61995931e246890f8c9c2f49"
+  },
+  "images": [
+    {
+      "$oid": "61992373a26604310c8ffced"
+    }
+  ],
+  "size": "S",
+  "color": "#FFFFFF",
+  "qty": 36,
+  "price": 24.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:23:13.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:23:13.757Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "619922555fe45920102c928e"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "619959c3e246890f8c9c2f4b"
+  },
+  "images": [
+    {
+      "$oid": "61992378a26604310c8ffcf8"
+    }
+  ],
+  "size": "S",
+  "color": "#FFFFFF",
+  "qty": 36,
+  "price": 24.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:25:39.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:25:39.129Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "6199226e5fe45920102c928f"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "619959e4e246890f8c9c2f4d"
+  },
+  "images": [
+    {
+      "$oid": "61992375a26604310c8ffcf1"
+    }
+  ],
+  "size": "S",
+  "color": "#FFFFFF",
+  "qty": 36,
+  "price": 24.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:26:12.895Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:26:12.909Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "619922855fe45920102c9290"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61995a15e246890f8c9c2f4f"
+  },
+  "images": [
+    {
+      "$oid": "61992381a26604310c8ffd0f"
+    }
+  ],
+  "size": "M",
+  "color": "#FFFFFF",
+  "qty": 25,
+  "price": 29.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:27:01.349Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:27:01.365Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "61992034907c8209c4d6f102"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61995a3be246890f8c9c2f51"
+  },
+  "images": [
+    {
+      "$oid": "61992380a26604310c8ffd0d"
+    }
+  ],
+  "size": "M",
+  "color": "#FFFFFF",
+  "qty": 25,
+  "price": 29.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:27:39.018Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:27:53.077Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "61992034907c8209c4d6f102"
+  }
+},{
+  "_id": {
+    "$oid": "61995a6ce246890f8c9c2f53"
+  },
+  "images": [
+    {
+      "$oid": "61992387a26604310c8ffd23"
+    }
+  ],
+  "size": "M",
+  "color": "#FFFFFF",
+  "qty": 25,
+  "price": 29.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:28:28.872Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:28:28.888Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "6199204c907c8209c4d6f103"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+},{
+  "_id": {
+    "$oid": "61995a8ee246890f8c9c2f55"
+  },
+  "images": [
+    {
+      "$oid": "61992387a26604310c8ffd21"
+    }
+  ],
+  "size": "M",
+  "color": "#FFFFFF",
+  "qty": 25,
+  "price": 29.99,
+  "createdAt": {
+    "$date": "2021-11-20T20:29:02.694Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T20:29:02.707Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  },
+  "product": {
+    "$oid": "6199204c907c8209c4d6f103"
+  },
+  "updated_by": {
+    "$oid": "6198d44f4b502b2ee45e1037"
+  }
+}]
